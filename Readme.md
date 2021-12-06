@@ -1,5 +1,14 @@
 # Sacred Coin Protocol V 0.1.0
 
+## Table of Contents
+* [Introduction](#1-introduction)
+* [Readme Aim](#2-readme-aim)
+* [Building a Sacred Coin Example](#3-example-of-how-to-build-a-sacred-coin)
+* [Retrieving the Guidelines of a Sacred Coin](#4-example-of-how-to-retrieve-the-guidelines-of-a-sacred-coin)
+* [Conclusion](#5-conclusion)
+
+
+
 ## 1. Introduction
 
 A protocol to build an ERC20 token that allows for the creation of guidelines, 
@@ -99,4 +108,4 @@ I hope that this short example gives you everything that you need to create your
 Sacred Coin.
 
 If you have any questions or concerns, do not hesitate to contact me.
-You can do so via the [issues]() tab
+You can do so via [Discord](https://discord.gg/m3cNXWshRK).
