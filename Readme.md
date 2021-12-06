@@ -3,8 +3,8 @@
 ## Table of Contents
 * [Introduction](#1-introduction)
 * [Readme Aim](#2-readme-aim)
-* [Building a Sacred Coin Example](#3-example-of-how-to-build-a-sacred-coin)
-* [Retrieving the Guidelines of a Sacred Coin](#4-example-of-how-to-retrieve-the-guidelines-of-a-sacred-coin)
+* [How to Build a Sacred Coin](#3-how-to-build-a-sacred-coin)
+* [How to Retrieve the Guidelines of a Sacred Coin](#4-how-to-retrieve-the-guidelines-of-a-sacred-coin)
 * [Conclusion](#5-conclusion)
 
 
@@ -26,7 +26,7 @@ For more information on the philosophy behind the protocol, visit
 Additional information about the structure of the SacredCoin contract
 can be found inside the contract itself.
 
-## 3. Example of how to build a Sacred Coin
+## 3. How to build a Sacred Coin
 
 Let's take the simplest example of a token built using the OpenZeppelin library,
 and make it a sacred coin by adding some guidelines.
@@ -64,7 +64,7 @@ And that's it! As you can see, building a sacred coin is as simple as:
 the first string is the guideline summary, and the second is the guideline 
 itself.
 
-## 4. Example of how to retrieve the guidelines of a Sacred Coin
+## 4. How to retrieve the guidelines of a Sacred Coin
 
 Once the token contract is deployed on the blockchain, a sacred coin's 
 guidelines will  be available for anyone to retrieve in a number of ways:
