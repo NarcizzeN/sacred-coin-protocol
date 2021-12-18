@@ -82,8 +82,8 @@ contract SacredCoin {
 
     /**
     * @dev Function that returns a single guideline.
-    * The element at location 0 of the array will have the guideline summary.
-    * The element at location 1 of the array will have the guideline itself.
+    * The element at location 0 of the array will store the guideline summary.
+    * The element at location 1 of the array will store the guideline itself.
     */
     function returnSingleGuideline(uint _index) public view returns(string memory, string memory) {
         return (guidelines[_index].summary, guidelines[_index].guideline);
@@ -91,7 +91,7 @@ contract SacredCoin {
 
     /**
     * @dev Function that returns all guidelines.
-    * This allows iterating over all guidelines to be displayed.
+    * This allows iterating over all guidelines for the purpose of retrieval and/or display.
     */
     function returnAllGuidelines() public view returns(Guideline[] memory) {
         return (guidelines);
