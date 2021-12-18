@@ -11,11 +11,11 @@ pragma solidity ^0.8.9;
  *
  * Works in conjunction with an ERC20 implementation, such as the OpenZeppelin ERC20 contract.
  *
- * To understand the philosophy behind it head over to our website
- * Sacredcoinprotocol.com
+ * To understand the philosophy behind it head over to our website:
+ * https://sacredcoinprotocol.com
  *
- * To see examples on how to use this contract go to the github page
- * [insert link]
+ * To see examples on how to use this contract go to the GitHub page:
+ * https://github.com/tokenosopher/sacred-coin-protocol
  *
  */
 
