@@ -1,4 +1,4 @@
-# Sacred Coin Protocol V 0.1.0
+# Sacred Coin Standard V 0.2.0
 
 ## Table of Contents
 * [Introduction](#1-introduction)
@@ -11,13 +11,13 @@
 
 ## 1. Introduction
 
-A protocol to build an ERC20 token that allows for the creation of guidelines, 
+A add-on standard to the ERC20 token standard that allows for the creation of guidelines, 
 or recommendations on how to use the coin that are intended for the those 
 who interact with it.
 
 ## 2. Readme Aim
 This readme is intended to provide a simple example of how to use the
-main contract of the protocol, SacredCoin.sol, and how to interact with the
+main contract of the standard, SacredCoin.sol, and how to interact with the
 guidelines of the token once it is created.
 
 For more information on the philosophy behind the protocol, visit
