@@ -6,7 +6,7 @@ pragma solidity ^0.8.9;
 /**
  * @title Sacred Coin Standard v0.2.0
  *
- * @dev An add-on standard to the ERC20 standard that allows for the creation of guidelines,
+ * @dev An add-on standard to the ERC20 token standard that allows for the creation of guidelines,
  * or recommendations on how to use the coin that are intended for the those who interact with it.
  *
  * Works in conjunction with an ERC20 implementation, such as the OpenZeppelin ERC20 contract.
